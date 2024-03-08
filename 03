@@ -1,0 +1,81 @@
+<!DOCTYPE <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title> Katy Perry </title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+    <body>
+    <header>
+        <!--cabeçalho da página-->
+        <h1>Katy Perry</h1>
+    </header>
+    <hr> <!--linha-->
+    <nav>
+       <!--menu de navegação-->
+       <p>NÓS AMAMOS KATY PERRY</p>
+    </nav>
+    <hr><!--linha-->
+    <main>
+        <!--Corpo Principal-->
+        <section>
+            <!--Sessões do corpo principal-->
+            <h2>Curiosidades sobre a Diva</h2>
+            <p>Katheryn Elizabeth Hudson (Santa Bárbara, 25 de outubro de 1984), conhecida pelo nome artístico Katy Perry, é uma cantora e compositora estadunidense.[7] Conhecida por sua influência na música pop moderna e seu estilo exagerado, ela foi chamada de "Rainha do Camp" pela revista Vogue. Seguindo uma carreira na música gospel aos 16 anos, Perry lançou seu álbum de estreia, Katy Hudson, pela Red Hill Records em 2001, que não obteve sucesso comercial.[8] Ela se mudou para Los Angeles aos 17 anos para se aventurar na música secular, e mais tarde adotou o nome artístico de "Katy Perry", originário do nome de solteira de sua mãe. Ela gravou um álbum enquanto contratada da Columbia Records, mas foi dispensada antes de assinar com a Capitol Records. </p><!--Atalho lorem + enter-->
+        </section>
+        <br><!-- Pula uma linha-->
+        <section>
+            <h2>Álbuns</h2>
+            <p>Katy Hudson - 2001
+                <br>
+              One of the Boys - 2008
+              <br>
+              Teenage Dream - 2010
+              <br>
+              Prism - 2013
+              <br>
+              Witness - 2017
+              <br>
+              Smile - 2020
+                  </p>
+                  <br>
+            <h3>Músicas Mais Tocadas</h3>
+            <p> I Kessed the girl
+                <br>
+                Hot'n Cold
+                <br>
+                Thinking of you 
+                <br>
+                Waking up in Vegas
+                <br>
+                California gurls
+                <br>
+                Teenage Dream
+                <br>
+                Firework
+                <br>
+                E.T (com participação especial de Kanye West)
+                <br>
+                Last friday in night (T.G.I.F.)
+                <br>
+                The on that got away
+                <br>
+                Part of me 
+                <br>
+                Roar
+                <br>
+                Unconditionally
+                <br>
+                Dark House
+                <br>
+                </p>
+        </section>
+    </main>
+    <hr>
+    <footer>
+        <!-- rodapé da página-->
+        Volte Sempre!!
+    </footer>
+    </body>
+</html>
